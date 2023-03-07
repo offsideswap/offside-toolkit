@@ -1,22 +1,22 @@
 import fs from "fs";
 import path from "path";
 import { TokenList } from "@uniswap/token-lists";
-import { version as pancakeswapDefaultVersion } from "../lists/pancakeswap-default.json";
-import { version as pancakeswapExtendedVersion } from "../lists/pancakeswap-extended.json";
-import { version as pancakeswapTop15Version } from "../lists/pancakeswap-top-15.json";
-import { version as pancakeswapTop100Version } from "../lists/pancakeswap-top-100.json";
+import { version as offsideswapDefaultVersion } from "../lists/offsideswap-default.json";
+import { version as offsideswapExtendedVersion } from "../lists/offsideswap-extended.json";
+import { version as offsideswapTop15Version } from "../lists/offsideswap-top-15.json";
+import { version as offsideswapTop100Version } from "../lists/offsideswap-top-100.json";
 import { version as coingeckoVersion } from "../lists/coingecko.json";
 import { version as cmcVersion } from "../lists/cmc.json";
-import { version as pancakeswapMiniVersion } from "../lists/pancakeswap-mini.json";
-import { version as pancakeswapMiniExtendedVersion } from "../lists/pancakeswap-mini-extended.json";
-import pancakeswapDefault from "./tokens/pancakeswap-default.json";
-import pancakeswapExtended from "./tokens/pancakeswap-extended.json";
-import pancakeswapTop100 from "./tokens/pancakeswap-top-100.json";
-import pancakeswapTop15 from "./tokens/pancakeswap-top-15.json";
+import { version as offsideswapMiniVersion } from "../lists/offsideswap-mini.json";
+import { version as offsideswapMiniExtendedVersion } from "../lists/offsideswap-mini-extended.json";
+import offsideswapDefault from "./tokens/offsideswap-default.json";
+import offsideswapExtended from "./tokens/offsideswap-extended.json";
+import offsideswapTop100 from "./tokens/offsideswap-top-100.json";
+import offsideswapTop15 from "./tokens/offsideswap-top-15.json";
 import coingecko from "./tokens/coingecko.json";
 import cmc from "./tokens/cmc.json";
-import pancakeswapMini from "./tokens/pancakeswap-mini.json";
-import pancakeswapMiniExtended from "./tokens/pancakeswap-mini-extended.json";
+import offsideswapMini from "./tokens/offsideswap-mini.json";
+import offsideswapMiniExtended from "./tokens/offsideswap-mini-extended.json";
 
 export enum VersionBump {
   "major" = "major",
@@ -31,37 +31,37 @@ type Version = {
 };
 
 const lists = {
-  "pancakeswap-default": {
-    list: pancakeswapDefault,
-    name: "PancakeSwap Default",
-    keywords: ["pancakeswap", "default"],
-    logoURI: "https://pancakeswap.finance/logo.png",
+  "offsideswap-default": {
+    list: offsideswapDefault,
+    name: "OffsideSwap Default",
+    keywords: ["offsideswap", "default"],
+    logoURI: "https://offsideswap.finance/logo.png",
     sort: false,
-    currentVersion: pancakeswapDefaultVersion,
+    currentVersion: offsideswapDefaultVersion,
   },
-  "pancakeswap-extended": {
-    list: pancakeswapExtended,
-    name: "PancakeSwap Extended",
-    keywords: ["pancakeswap", "extended"],
-    logoURI: "https://pancakeswap.finance/logo.png",
+  "offsideswap-extended": {
+    list: offsideswapExtended,
+    name: "OffsideSwap Extended",
+    keywords: ["offsideswap", "extended"],
+    logoURI: "https://offsideswap.finance/logo.png",
     sort: true,
-    currentVersion: pancakeswapExtendedVersion,
+    currentVersion: offsideswapExtendedVersion,
   },
-  "pancakeswap-top-100": {
-    list: pancakeswapTop100,
-    name: "PancakeSwap Top 100",
-    keywords: ["pancakeswap", "top 100"],
-    logoURI: "https://pancakeswap.finance/logo.png",
+  "offsideswap-top-100": {
+    list: offsideswapTop100,
+    name: "OffsideSwap Top 100",
+    keywords: ["offsideswap", "top 100"],
+    logoURI: "https://offsideswap.finance/logo.png",
     sort: true,
-    currentVersion: pancakeswapTop100Version,
+    currentVersion: offsideswapTop100Version,
   },
-  "pancakeswap-top-15": {
-    list: pancakeswapTop15,
-    name: "PancakeSwap Top 15",
-    keywords: ["pancakeswap", "top 15"],
-    logoURI: "https://pancakeswap.finance/logo.png",
+  "offsideswap-top-15": {
+    list: offsideswapTop15,
+    name: "OffsideSwap Top 15",
+    keywords: ["offsideswap", "top 15"],
+    logoURI: "https://offsideswap.finance/logo.png",
     sort: true,
-    currentVersion: pancakeswapTop15Version,
+    currentVersion: offsideswapTop15Version,
   },
   coingecko: {
     list: coingecko,
@@ -80,21 +80,21 @@ const lists = {
     sort: true,
     currentVersion: cmcVersion,
   },
-  "pancakeswap-mini": {
-    list: pancakeswapMini,
-    name: "PancakeSwap Mini",
-    keywords: ["pancakeswap", "binance", "mini program", "mini"],
-    logoURI: "https://pancakeswap.finance/logo.png",
+  "offsideswap-mini": {
+    list: offsideswapMini,
+    name: "OffsideSwap Mini",
+    keywords: ["offsideswap", "binance", "mini program", "mini"],
+    logoURI: "https://offsideswap.finance/logo.png",
     sort: true,
-    currentVersion: pancakeswapMiniVersion,
+    currentVersion: offsideswapMiniVersion,
   },
-  "pancakeswap-mini-extended": {
-    list: pancakeswapMiniExtended,
-    name: "PancakeSwap Mini Ext",
-    keywords: ["pancakeswap", "binance", "mini program", "mini", "extended"],
-    logoURI: "https://pancakeswap.finance/logo.png",
+  "offsideswap-mini-extended": {
+    list: offsideswapMiniExtended,
+    name: "OffsideSwap Mini Ext",
+    keywords: ["offsideswap", "binance", "mini program", "mini", "extended"],
+    logoURI: "https://offsideswap.finance/logo.png",
     sort: true,
-    currentVersion: pancakeswapMiniExtendedVersion,
+    currentVersion: offsideswapMiniExtendedVersion,
   },
 };
 
@@ -124,9 +124,9 @@ export const buildList = (listName: string, versionBump?: VersionBump): TokenLis
     tokens: sort
       ? list.sort((t1, t2) => {
           if (t1.chainId === t2.chainId) {
-            // CAKE first in extended list
-            if ((t1.symbol === "CAKE") !== (t2.symbol === "CAKE")) {
-              return t1.symbol === "CAKE" ? -1 : 1;
+            // ROTO first in extended list
+            if ((t1.symbol === "ROTO") !== (t2.symbol === "ROTO")) {
+              return t1.symbol === "ROTO" ? -1 : 1;
             }
             return t1.symbol.toLowerCase() < t2.symbol.toLowerCase() ? -1 : 1;
           }

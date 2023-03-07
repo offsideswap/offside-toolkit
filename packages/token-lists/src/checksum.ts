@@ -1,24 +1,24 @@
 import fs from "fs";
 import path from "path";
 import { getAddress } from "@ethersproject/address";
-import pancakeswapDefault from "./tokens/pancakeswap-default.json";
-import pancakeswapExtended from "./tokens/pancakeswap-extended.json";
-import pancakeswapTop100 from "./tokens/pancakeswap-top-100.json";
-import pancakeswapTop15 from "./tokens/pancakeswap-top-15.json";
+import offsideswapDefault from "./tokens/offsideswap-default.json";
+import offsideswapExtended from "./tokens/offsideswap-extended.json";
+import offsideswapTop100 from "./tokens/offsideswap-top-100.json";
+import offsideswapTop15 from "./tokens/offsideswap-top-15.json";
 import coingecko from "./tokens/coingecko.json";
 import cmc from "./tokens/cmc.json";
-import pancakeswapMini from "./tokens/pancakeswap-mini.json";
-import pancakeswapMiniExtended from "./tokens/pancakeswap-mini-extended.json";
+import offsideswapMini from "./tokens/offsideswap-mini.json";
+import offsideswapMiniExtended from "./tokens/offsideswap-mini-extended.json";
 
 const lists = {
-  "pancakeswap-default": pancakeswapDefault,
-  "pancakeswap-extended": pancakeswapExtended,
-  "pancakeswap-top-100": pancakeswapTop100,
-  "pancakeswap-top-15": pancakeswapTop15,
+  "offsideswap-default": offsideswapDefault,
+  "offsideswap-extended": offsideswapExtended,
+  "offsideswap-top-100": offsideswapTop100,
+  "offsideswap-top-15": offsideswapTop15,
   coingecko,
   cmc,
-  "pancakeswap-mini": pancakeswapMini,
-  "pancakeswap-mini-extended": pancakeswapMiniExtended,
+  "offsideswap-mini": offsideswapMini,
+  "offsideswap-mini-extended": offsideswapMiniExtended,
 };
 
 const checksumAddresses = (listName: string): void => {

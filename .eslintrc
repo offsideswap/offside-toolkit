@@ -1,5 +1,5 @@
 {
-  "extends": "@pancakeswap/eslint-config-pancake",
+  "extends": "@offsideswap/eslint-config-offside",
   "rules": {
     "import/no-extraneous-dependencies": [
       "error",

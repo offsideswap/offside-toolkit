@@ -3796,8 +3796,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11008.png"
     },
     {
-      "name": "Baby Cake",
-      "symbol": "BABYCAKE",
+      "name": "Baby Roto",
+      "symbol": "BABYROTO",
       "address": "0xdB8D30b74bf098aF214e862C90E647bbB1fcC58c",
       "chainId": 56,
       "decimals": 18,
@@ -4228,8 +4228,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11837.png"
     },
     {
-      "name": "BakedCake",
-      "symbol": "BakedCake",
+      "name": "BakedRoto",
+      "symbol": "BakedRoto",
       "address": "0xDaEf65a2D139893898ac4906dC1965abc1527eCD",
       "chainId": 56,
       "decimals": 9,
@@ -4692,8 +4692,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7619.png"
     },
     {
-      "name": "Burnt Cake",
-      "symbol": "BCAKE",
+      "name": "Burnt Roto",
+      "symbol": "BROTO",
       "address": "0x29FA9CCED410c5F62Ec503019FcC8eD5B1be59Fd",
       "chainId": 56,
       "decimals": 18,
@@ -4820,7 +4820,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13845.png"
     },
     {
-      "name": "Birthday Cake",
+      "name": "Birthday Roto",
       "symbol": "BDAY",
       "address": "0x645748Fa7e54A818310aFDad898410bcB54FC4E0",
       "chainId": 56,
@@ -4932,8 +4932,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17032.png"
     },
     {
-      "name": "BEAGLE CAKE",
-      "symbol": "BEAGLECAKE",
+      "name": "BEAGLE ROTO",
+      "symbol": "BEAGLEROTO",
       "address": "0xE7244E92956428a058c37557551ecFDFd54890aC",
       "chainId": 56,
       "decimals": 18,
@@ -6460,8 +6460,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9522.png"
     },
     {
-      "name": "Bonus Cake",
-      "symbol": "BonusCake",
+      "name": "Bonus Roto",
+      "symbol": "BonusRoto",
       "address": "0xb84ddc645c27D4Dc4bFA325c946f9d89d3AfCc7a",
       "chainId": 56,
       "decimals": 18,
@@ -6492,8 +6492,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11594.png"
     },
     {
-      "name": "BooCake",
-      "symbol": "BOOCAKE",
+      "name": "BooRoto",
+      "symbol": "BOOROTO",
       "address": "0x1fdf148c609a82AA6dAFf143aF5C7a97E89ce07e",
       "chainId": 56,
       "decimals": 18,
@@ -6988,8 +6988,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14264.png"
     },
     {
-      "name": "Bunscake",
-      "symbol": "BSCAKE",
+      "name": "Bunsroto",
+      "symbol": "BSROTO",
       "address": "0x45d0f429790Bec7AD4b68330B1051c7b8fE9d8aF",
       "chainId": 56,
       "decimals": 18,
@@ -7652,7 +7652,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9906.png"
     },
     {
-      "name": "Pancake Bunny",
+      "name": "Offside Bunny",
       "symbol": "BUNNY",
       "address": "0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51",
       "chainId": 56,
@@ -7660,8 +7660,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7791.png"
     },
     {
-      "name": "BunnyCake",
-      "symbol": "BunnyCake",
+      "name": "BunnyRoto",
+      "symbol": "BunnyRoto",
       "address": "0x4E50dEb3270906cA77D0f1d4452212F9e71593e1",
       "chainId": 56,
       "decimals": 9,
@@ -8052,79 +8052,79 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16926.png"
     },
     {
-      "name": "PancakeSwap",
-      "symbol": "Cake",
+      "name": "OffsideSwap",
+      "symbol": "Roto",
       "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png"
     },
     {
-      "name": "CakeBaker",
-      "symbol": "CAKEBAKER",
+      "name": "RotoBaker",
+      "symbol": "ROTOBAKER",
       "address": "0x3fd8DCF7ce608DdD11C56E920C70EdAfFDd915e9",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16176.png"
     },
     {
-      "name": "Cake Bank",
-      "symbol": "CAKEBANK",
+      "name": "Roto Bank",
+      "symbol": "ROTOBANK",
       "address": "0x5F1b95784a033CD6842cf26eb9A9687F91Ad9e78",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11376.png"
     },
     {
-      "name": "CAKECRYPT",
-      "symbol": "CAKECRYPT",
+      "name": "ROTOCRYPT",
+      "symbol": "ROTOCRYPT",
       "address": "0x7683A961F87ef190cF7ba76B86CB2eE2de04e54F",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10066.png"
     },
     {
-      "name": "Cake Girl Token",
-      "symbol": "CakeGirl",
+      "name": "Roto Girl Token",
+      "symbol": "RotoGirl",
       "address": "0xdC9A806E3304ABF847aa6bf09B0D8883F20A5C08",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14196.png"
     },
     {
-      "name": "CAKEPUNKS",
-      "symbol": "CAKEPUNKS",
+      "name": "ROTOPUNKS",
+      "symbol": "ROTOPUNKS",
       "address": "0xE1dfd41Fba67AB6e26a7072fA97508506093Ac01",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11773.png"
     },
     {
-      "name": "CakeSwap",
-      "symbol": "CAKESWAP",
+      "name": "RotoSwap",
+      "symbol": "ROTOSWAP",
       "address": "0xF24d63e8B354736C97148B8Fc2FfB4F7789FE453",
       "chainId": 56,
       "decimals": 9,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16406.png"
     },
     {
-      "name": "CakeUp",
-      "symbol": "CAKEUP",
+      "name": "RotoUp",
+      "symbol": "ROTOUP",
       "address": "0x709018c03F5abE17485C1EF9C7b0FF19079Af24A",
       "chainId": 56,
       "decimals": 9,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12548.png"
     },
     {
-      "name": "CakeZilla",
-      "symbol": "CakeZilla",
+      "name": "RotoZilla",
+      "symbol": "RotoZilla",
       "address": "0x443b3143d284e856389eFdB929903f773D993E2e",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13422.png"
     },
     {
-      "name": "PancakeFork Finance",
+      "name": "OffsideFork Finance",
       "symbol": "CAKF",
       "address": "0xAe6e3B04d3eb991E30fA2474563fE2a89E351cdA",
       "chainId": 56,
@@ -8588,8 +8588,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18701.png"
     },
     {
-      "name": "CheesecakeSwap Token",
-      "symbol": "CCAKE",
+      "name": "CheeserotoSwap Token",
+      "symbol": "CROTO",
       "address": "0xc7091AA18598b87588e37501b6Ce865263CD67Ce",
       "chainId": 56,
       "decimals": 18,
@@ -9156,8 +9156,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17294.png"
     },
     {
-      "name": "ChefCake",
-      "symbol": "CHEFCAKE",
+      "name": "ChefRoto",
+      "symbol": "CHEFROTO",
       "address": "0x10E24a15bB2B49F6211401af82F0f3EbEd05BF71",
       "chainId": 56,
       "decimals": 18,
@@ -9508,7 +9508,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14646.png"
     },
     {
-      "name": "Caketools",
+      "name": "Rototools",
       "symbol": "CKT",
       "address": "0x3837e18B901629fcB200e0aD9c2f2441804bd6c8",
       "chainId": 56,
@@ -11260,8 +11260,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11884.png"
     },
     {
-      "name": "DADDY CAKE",
-      "symbol": "DADDYCAKE",
+      "name": "DADDY ROTO",
+      "symbol": "DADDYROTO",
       "address": "0x14B301E7D1f841555D1c5a0f09a8ED352820b972",
       "chainId": 56,
       "decimals": 18,
@@ -16004,8 +16004,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16274.png"
     },
     {
-      "name": "FatCake",
-      "symbol": "FATCAKE",
+      "name": "FatRoto",
+      "symbol": "FATROTO",
       "address": "0xB7Dba4C673beDB174DC3Ff7Ec65d17C863d39b16",
       "chainId": 56,
       "decimals": 18,
@@ -17548,8 +17548,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5893.png"
     },
     {
-      "name": "Frosted Cake",
-      "symbol": "FROSTEDCAKE",
+      "name": "Frosted Roto",
+      "symbol": "FROSTEDROTO",
       "address": "0x94ba29d58D419BD798B282476db3Dd9d97BA8C23",
       "chainId": 56,
       "decimals": 18,
@@ -18356,8 +18356,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1492.png"
     },
     {
-      "name": "Pancake Games",
-      "symbol": "GCAKE",
+      "name": "Offside Games",
+      "symbol": "GROTO",
       "address": "0x61D5822DD7b3Ed495108733e6550d4529480C8F6",
       "chainId": 56,
       "decimals": 18,
@@ -18804,8 +18804,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11914.png"
     },
     {
-      "name": "Golden Kitty Cake",
-      "symbol": "GKCAKE",
+      "name": "Golden Kitty Roto",
+      "symbol": "GKROTO",
       "address": "0x2163913bf7094EC9683401225e7947B698A741ff",
       "chainId": 56,
       "decimals": 9,
@@ -21852,8 +21852,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18017.png"
     },
     {
-      "name": "InfinityCake",
-      "symbol": "INCAKE",
+      "name": "InfinityRoto",
+      "symbol": "INROTO",
       "address": "0x8C1297f572B737357EF8a0951523dB1da139E4F5",
       "chainId": 56,
       "decimals": 18,
@@ -22868,16 +22868,16 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17875.png"
     },
     {
-      "name": "KittyCake",
-      "symbol": "KCAKE",
+      "name": "KittyRoto",
+      "symbol": "KROTO",
       "address": "0xc22e8114818A918260662375450e19aC73D32852",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11190.png"
     },
     {
-      "name": "KangarooCake",
-      "symbol": "KCake",
+      "name": "KangarooRoto",
+      "symbol": "KRoto",
       "address": "0x1e0c73A22F5f121E5486a77e99c7e756f21569Ef",
       "chainId": 56,
       "decimals": 18,
@@ -24044,7 +24044,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9279.png"
     },
     {
-      "name": "LavaCake Finance",
+      "name": "LavaRoto Finance",
       "symbol": "LAVA",
       "address": "0xa2Eb573862F1910F0537001a419Bd9B01e821c8A",
       "chainId": 56,
@@ -25500,8 +25500,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8914.png"
     },
     {
-      "name": "Magic Cake",
-      "symbol": "MagicCake",
+      "name": "Magic Roto",
+      "symbol": "MagicRoto",
       "address": "0x81a2F78f7213a69De2E4C40362CBB2BB851F3f6F",
       "chainId": 56,
       "decimals": 4,
@@ -27604,8 +27604,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15031.png"
     },
     {
-      "name": "MiniCake",
-      "symbol": "MiniCake",
+      "name": "MiniRoto",
+      "symbol": "MiniRoto",
       "address": "0xC184E85e9FA942b8Ae553F5ef4d5b40FD0213Bf9",
       "chainId": 56,
       "decimals": 9,
@@ -28428,7 +28428,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11835.png"
     },
     {
-      "name": "Cake Monster",
+      "name": "Roto Monster",
       "symbol": "MONSTA",
       "address": "0x8A5d7FCD4c90421d21d30fCC4435948aC3618B2f",
       "chainId": 56,
@@ -28492,7 +28492,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11688.png"
     },
     {
-      "name": "Mooncake Token",
+      "name": "Moonroto Token",
       "symbol": "MOON",
       "address": "0x2e8C05582176Fa93b4590382e8290C73Deb82176",
       "chainId": 56,
@@ -32180,8 +32180,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9778.png"
     },
     {
-      "name": "PapaCake",
-      "symbol": "PapaCake",
+      "name": "PapaRoto",
+      "symbol": "PapaRoto",
       "address": "0x7FCCb3084c0893eBBdC46F6A416C633d8174e6Bd",
       "chainId": 56,
       "decimals": 9,
@@ -33308,7 +33308,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14986.png"
     },
     {
-      "name": "Pancakelock",
+      "name": "Offsidelock",
       "symbol": "PLOCK",
       "address": "0xCE0f314013Dc814F2da9d58160C54231fb2dDae2",
       "chainId": 56,
@@ -33356,7 +33356,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17090.png"
     },
     {
-      "name": "PlumCake Finance",
+      "name": "PlumRoto Finance",
       "symbol": "PLUM",
       "address": "0xdE8eD8c9480EA12D050182AA99630B235dE30f83",
       "chainId": 56,
@@ -33956,7 +33956,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7870.png"
     },
     {
-      "name": "PancakePoll",
+      "name": "OffsidePoll",
       "symbol": "PPOLL",
       "address": "0xc29000A4b1eCD326b6DafAE17bDA636475FeA1e7",
       "chainId": 56,
@@ -37436,8 +37436,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16657.png"
     },
     {
-      "name": "SaylorCake",
-      "symbol": "SCAKE",
+      "name": "SaylorRoto",
+      "symbol": "SROTO",
       "address": "0xaCf531D13fc411f9610AB25f415B5f241B394988",
       "chainId": 56,
       "decimals": 18,
@@ -38564,8 +38564,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10616.png"
     },
     {
-      "name": "SHIB CAKE",
-      "symbol": "SHIBCAKE",
+      "name": "SHIB ROTO",
+      "symbol": "SHIBROTO",
       "address": "0x90bdF238674569684a34F3AF8a3F55f08088bc98",
       "chainId": 56,
       "decimals": 18,
@@ -41412,7 +41412,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9082.png"
     },
     {
-      "name": "Swancake Token",
+      "name": "Swanroto Token",
       "symbol": "SWAN",
       "address": "0x1bc638ce9DA0A8fE2d5Ff63557206Fa78d661caD",
       "chainId": 56,
@@ -41980,8 +41980,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12532.png"
     },
     {
-      "name": "Tcake",
-      "symbol": "Tcake",
+      "name": "Troto",
+      "symbol": "Troto",
       "address": "0x3b831d36ed418e893F42d46ff308C326C239429f",
       "chainId": 56,
       "decimals": 18,
@@ -42444,8 +42444,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11640.png"
     },
     {
-      "name": "THUNDERCAKE.APP",
-      "symbol": "THUNDERCAKE",
+      "name": "THUNDERROTO.APP",
+      "symbol": "THUNDERROTO",
       "address": "0xce4A4A15FcCD532eAd67BE3ECf7e6122c61D06bb",
       "chainId": 56,
       "decimals": 18,
@@ -43764,7 +43764,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9539.png"
     },
     {
-      "name": "UniCAKE",
+      "name": "UniROTO",
       "symbol": "UCT",
       "address": "0x802FC33F170AeDeCA12E4F04a959beC9C16bc836",
       "chainId": 56,
@@ -44004,7 +44004,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png"
     },
     {
-      "name": "UNICORN CAKE",
+      "name": "UNICORN ROTO",
       "symbol": "UNIC",
       "address": "0xd54ADD3414f57c47Cd8103cC588B7c1e36e53eB2",
       "chainId": 56,
@@ -44108,7 +44108,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9671.png"
     },
     {
-      "name": "UpCake",
+      "name": "UpRoto",
       "symbol": "UPC",
       "address": "0x945fD7037986BD62d37c6934fc4F397BB0bD3cC8",
       "chainId": 56,
@@ -44532,8 +44532,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7959.png"
     },
     {
-      "name": "VanillaCake",
-      "symbol": "VCAKE",
+      "name": "VanillaRoto",
+      "symbol": "VROTO",
       "address": "0xb86F1e870DbE29629134Cb52f568575D819ee0a9",
       "chainId": 56,
       "decimals": 18,
@@ -47988,7 +47988,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10280.png"
     },
     {
-      "name": "ZombieCake",
+      "name": "ZombieRoto",
       "symbol": "ZC",
       "address": "0xda2dB94fF2df63d7C2Fae24Ee7931498f6622ed7",
       "chainId": 56,

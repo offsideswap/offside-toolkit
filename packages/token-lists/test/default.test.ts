@@ -4,26 +4,26 @@ import fs from "fs";
 import path from "path";
 import { getAddress } from "@ethersproject/address";
 import { schema } from "@uniswap/token-lists";
-import currentPancakeswapDefaultList from "../lists/pancakeswap-default.json";
-import currentPancakeswapExtendedtList from "../lists/pancakeswap-extended.json";
-import currentPancakeswapTop15List from "../lists/pancakeswap-top-15.json";
-import currentPancakeswapTop100tList from "../lists/pancakeswap-top-100.json";
+import currentOffsideswapDefaultList from "../lists/offsideswap-default.json";
+import currentOffsideswapExtendedtList from "../lists/offsideswap-extended.json";
+import currentOffsideswapTop15List from "../lists/offsideswap-top-15.json";
+import currentOffsideswapTop100tList from "../lists/offsideswap-top-100.json";
 import currentCoingeckoList from "../lists/coingecko.json";
 import currentCmcList from "../lists/cmc.json";
-import currentPancakeswapMiniList from "../lists/pancakeswap-mini.json";
-import currentPancakeswapMiniExtendedList from "../lists/pancakeswap-mini-extended.json";
+import currentOffsideswapMiniList from "../lists/offsideswap-mini.json";
+import currentOffsideswapMiniExtendedList from "../lists/offsideswap-mini-extended.json";
 import { buildList, VersionBump } from "../src/buildList";
 import getTokenChainData from "../src/utils/getTokensChainData";
 
 const currentLists = {
-  "pancakeswap-default": currentPancakeswapDefaultList,
-  "pancakeswap-extended": currentPancakeswapExtendedtList,
-  "pancakeswap-top-100": currentPancakeswapTop100tList,
-  "pancakeswap-top-15": currentPancakeswapTop15List,
+  "offsideswap-default": currentOffsideswapDefaultList,
+  "offsideswap-extended": currentOffsideswapExtendedtList,
+  "offsideswap-top-100": currentOffsideswapTop100tList,
+  "offsideswap-top-15": currentOffsideswapTop15List,
   coingecko: currentCoingeckoList,
   cmc: currentCmcList,
-  "pancakeswap-mini": currentPancakeswapMiniList,
-  "pancakeswap-mini-extended": currentPancakeswapMiniExtendedList,
+  "offsideswap-mini": currentOffsideswapMiniList,
+  "offsideswap-mini-extended": currentOffsideswapMiniExtendedList,
 };
 
 const ajv = new Ajv({ allErrors: true, format: "full" });
@@ -93,7 +93,7 @@ expect.extend({
     const hasTWLogo =
       token.logoURI === `https://assets.trustwalletapp.com/blockchains/smartchain/assets/${token.address}/logo.png`;
     let hasLocalLogo = false;
-    const refersToLocalLogo = token.logoURI === `https://tokens.pancakeswap.finance/images/${token.address}.png`;
+    const refersToLocalLogo = token.logoURI === `https://tokens.offsideswap.finance/images/${token.address}.png`;
     if (refersToLocalLogo) {
       const fileName = token.logoURI.split("/").pop();
       // Note: fs.existsSync can't be used here because its not case sensetive
@@ -113,14 +113,14 @@ expect.extend({
 });
 
 describe.each([
-  ["pancakeswap-default"],
-  ["pancakeswap-extended"],
-  ["pancakeswap-top-100"],
-  ["pancakeswap-top-15"],
+  ["offsideswap-default"],
+  ["offsideswap-extended"],
+  ["offsideswap-top-100"],
+  ["offsideswap-top-15"],
   ["coingecko", { skipLogo: true }],
   ["cmc", { skipLogo: true }],
-  ["pancakeswap-mini"],
-  ["pancakeswap-mini-extended"],
+  ["offsideswap-mini"],
+  ["offsideswap-mini-extended"],
 ])("buildList %s", (listName, opt = undefined) => {
   const defaultTokenList = buildList(listName);
 

@@ -3252,12 +3252,12 @@
       "logoURI": "https://assets.coingecko.com/coins/images/17370/thumb/babybusd.PNG?1627439151"
     },
     {
-      "name": "Baby Cake",
-      "symbol": "BABYCAKE",
+      "name": "Baby Roto",
+      "symbol": "BABYROTO",
       "address": "0xdB8D30b74bf098aF214e862C90E647bbB1fcC58c",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/17180/thumb/baby_cake.PNG?1626818254"
+      "logoURI": "https://assets.coingecko.com/coins/images/17180/thumb/baby_roto.PNG?1626818254"
     },
     {
       "name": "BabyCare",
@@ -3644,12 +3644,12 @@
       "logoURI": "https://assets.coingecko.com/coins/images/18296/thumb/IMG-20210909-160846-983.jpg?1631346278"
     },
     {
-      "name": "BakedCake Finance",
-      "symbol": "BakedCake",
+      "name": "BakedRoto Finance",
+      "symbol": "BakedRoto",
       "address": "0xDaEf65a2D139893898ac4906dC1965abc1527eCD",
       "chainId": 56,
       "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/20146/thumb/bakedcake.png?1636540438"
+      "logoURI": "https://assets.coingecko.com/coins/images/20146/thumb/bakedroto.png?1636540438"
     },
     {
       "name": "BaksDAO",
@@ -4028,8 +4028,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/13016/thumb/Untitled-design-6-removebg-preview.png?1604389289"
     },
     {
-      "name": "Burnt Cake",
-      "symbol": "BCAKE",
+      "name": "Burnt Roto",
+      "symbol": "BROTO",
       "address": "0x29FA9CCED410c5F62Ec503019FcC8eD5B1be59Fd",
       "chainId": 56,
       "decimals": 18,
@@ -4132,7 +4132,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/18342/thumb/bcpay.jpg?1631601832"
     },
     {
-      "name": "BabyDogeCake",
+      "name": "BabyDogeRoto",
       "symbol": "BDC",
       "address": "0x7181638E041E26321f9f2519E2F885f656458519",
       "chainId": 56,
@@ -4236,8 +4236,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/18983/thumb/Beach-token-200x200.png?1634100635"
     },
     {
-      "name": "BeagleCake",
-      "symbol": "BEAGLECAKE",
+      "name": "BeagleRoto",
+      "symbol": "BEAGLEROTO",
       "address": "0xE7244E92956428a058c37557551ecFDFd54890aC",
       "chainId": 56,
       "decimals": 18,
@@ -5580,8 +5580,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/15020/thumb/Logo_-_2021-04-27T062421.226.png?1619475866"
     },
     {
-      "name": "Bonus Cake",
-      "symbol": "BonusCake",
+      "name": "Bonus Roto",
+      "symbol": "BonusRoto",
       "address": "0xb84ddc645c27D4Dc4bFA325c946f9d89d3AfCc7a",
       "chainId": 56,
       "decimals": 18,
@@ -5596,12 +5596,12 @@
       "logoURI": "https://assets.coingecko.com/coins/images/16787/thumb/32.jpg?1625754488"
     },
     {
-      "name": "BooCake",
-      "symbol": "BOOCAKE",
+      "name": "BooRoto",
+      "symbol": "BOOROTO",
       "address": "0x1fdf148c609a82AA6dAFf143aF5C7a97E89ce07e",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/19489/thumb/boocake.jpeg?1635301641"
+      "logoURI": "https://assets.coingecko.com/coins/images/19489/thumb/booroto.jpeg?1635301641"
     },
     {
       "name": "Boom Shiba",
@@ -6036,12 +6036,12 @@
       "logoURI": "https://assets.coingecko.com/coins/images/20148/thumb/bsc33.PNG?1636582099"
     },
     {
-      "name": "Bunscake",
-      "symbol": "BSCAKE",
+      "name": "Bunsroto",
+      "symbol": "BSROTO",
       "address": "0x45d0f429790Bec7AD4b68330B1051c7b8fE9d8aF",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/19826/thumb/bunscake.PNG?1635978566"
+      "logoURI": "https://assets.coingecko.com/coins/images/19826/thumb/bunsroto.PNG?1635978566"
     },
     {
       "name": "BSCBAY",
@@ -6636,7 +6636,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/23576/thumb/unilock.jpg?1644506142"
     },
     {
-      "name": "Pancake Bunny",
+      "name": "Offside Bunny",
       "symbol": "BUNNY",
       "address": "0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51",
       "chainId": 56,
@@ -6972,60 +6972,60 @@
       "logoURI": "https://assets.coingecko.com/coins/images/20198/thumb/cai.PNG?1636615663"
     },
     {
-      "name": "PancakeSwap",
-      "symbol": "Cake",
+      "name": "OffsideSwap",
+      "symbol": "Roto",
       "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12632/thumb/pancakeswap-cake-logo_%281%29.png?1629359065"
+      "logoURI": "https://assets.coingecko.com/coins/images/12632/thumb/offsideswap-roto-logo_%281%29.png?1629359065"
     },
     {
-      "name": "CakeBaker",
-      "symbol": "CAKEBAKER",
+      "name": "RotoBaker",
+      "symbol": "ROTOBAKER",
       "address": "0x3fd8DCF7ce608DdD11C56E920C70EdAfFDd915e9",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/21651/thumb/tXrz60kQ_400x400.jpg?1639650117"
     },
     {
-      "name": "Cake Bank",
-      "symbol": "CAKEBANK",
+      "name": "Roto Bank",
+      "symbol": "ROTOBANK",
       "address": "0x5F1b95784a033CD6842cf26eb9A9687F91Ad9e78",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/17924/thumb/logo_256px.jpg?1629791331"
     },
     {
-      "name": "Cake Girl",
-      "symbol": "CakeGirl",
+      "name": "Roto Girl",
+      "symbol": "RotoGirl",
       "address": "0xdC9A806E3304ABF847aa6bf09B0D8883F20A5C08",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/20127/thumb/cake_girl.PNG?1636525267"
+      "logoURI": "https://assets.coingecko.com/coins/images/20127/thumb/roto_girl.PNG?1636525267"
     },
     {
-      "name": "CAKEPUNKS",
-      "symbol": "CAKEPUNKS",
+      "name": "ROTOPUNKS",
+      "symbol": "ROTOPUNKS",
       "address": "0xE1dfd41Fba67AB6e26a7072fA97508506093Ac01",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/18215/thumb/cool_2.png?1631005870"
     },
     {
-      "name": "CakeSwap",
-      "symbol": "CAKESWAP",
+      "name": "RotoSwap",
+      "symbol": "ROTOSWAP",
       "address": "0xF24d63e8B354736C97148B8Fc2FfB4F7789FE453",
       "chainId": 56,
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/21953/thumb/BRZnDZMh.png?1640324332"
     },
     {
-      "name": "CakeZilla",
-      "symbol": "CakeZilla",
+      "name": "RotoZilla",
+      "symbol": "RotoZilla",
       "address": "0x443b3143d284e856389eFdB929903f773D993E2e",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/19544/thumb/cakezilla.png?1635389530"
+      "logoURI": "https://assets.coingecko.com/coins/images/19544/thumb/rotozilla.png?1635389530"
     },
     {
       "name": "ChubbyAkita",
@@ -7444,12 +7444,12 @@
       "logoURI": "https://assets.coingecko.com/coins/images/23908/thumb/46d739d6-0be0-4742-a408-fd93306ac5dc.jpg?1645681837"
     },
     {
-      "name": "CheesecakeSwap",
-      "symbol": "CCAKE",
+      "name": "CheeserotoSwap",
+      "symbol": "CROTO",
       "address": "0xc7091AA18598b87588e37501b6Ce865263CD67Ce",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/14547/thumb/CCAKElogo.png?1616984147"
+      "logoURI": "https://assets.coingecko.com/coins/images/14547/thumb/CROTOlogo.png?1616984147"
     },
     {
       "name": "CUEX Capital",
@@ -7948,12 +7948,12 @@
       "logoURI": "https://assets.coingecko.com/coins/images/23278/thumb/cheesus.png?1643529316"
     },
     {
-      "name": "ChefCake",
-      "symbol": "CHEFCAKE",
+      "name": "ChefRoto",
+      "symbol": "CHEFROTO",
       "address": "0x10E24a15bB2B49F6211401af82F0f3EbEd05BF71",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/19976/thumb/chefcake.png?1636351365"
+      "logoURI": "https://assets.coingecko.com/coins/images/19976/thumb/chefroto.png?1636351365"
     },
     {
       "name": "Cherry Network",
@@ -8236,12 +8236,12 @@
       "logoURI": "https://assets.coingecko.com/coins/images/20469/thumb/ckg.png?1638182690"
     },
     {
-      "name": "Caketools",
+      "name": "Rototools",
       "symbol": "CKT",
       "address": "0x3837e18B901629fcB200e0aD9c2f2441804bd6c8",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/20620/thumb/caketools-round-200.png?1637769605"
+      "logoURI": "https://assets.coingecko.com/coins/images/20620/thumb/rototools-round-200.png?1637769605"
     },
     {
       "name": "Class Coin",
@@ -9764,8 +9764,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/24048/thumb/logo_%282%29.png?1646197186"
     },
     {
-      "name": "DaddyCake",
-      "symbol": "DADDYCAKE",
+      "name": "DaddyRoto",
+      "symbol": "DADDYROTO",
       "address": "0x14B301E7D1f841555D1c5a0f09a8ED352820b972",
       "chainId": 56,
       "decimals": 18,
@@ -13876,8 +13876,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/14908/thumb/7lE0hlG.png?1618986470"
     },
     {
-      "name": "FatCake",
-      "symbol": "FATCAKE",
+      "name": "FatRoto",
+      "symbol": "FATROTO",
       "address": "0xB7Dba4C673beDB174DC3Ff7Ec65d17C863d39b16",
       "chainId": 56,
       "decimals": 18,
@@ -15148,8 +15148,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12479/thumb/frontier_logo.png?1600145472"
     },
     {
-      "name": "Frosted Cake",
-      "symbol": "FROSTEDCAKE",
+      "name": "Frosted Roto",
+      "symbol": "FROSTEDROTO",
       "address": "0x94ba29d58D419BD798B282476db3Dd9d97BA8C23",
       "chainId": 56,
       "decimals": 18,
@@ -15180,7 +15180,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/22386/thumb/95039059.png?1641788131"
     },
     {
-      "name": "FrozenCake",
+      "name": "FrozenRoto",
       "symbol": "FROZEN",
       "address": "0xE7A8E7d7729859EA6eEdbd4D67F8c97A22b11435",
       "chainId": 56,
@@ -15788,8 +15788,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/561/thumb/byteball.png?1547564361"
     },
     {
-      "name": "Pancake Games",
-      "symbol": "GCAKE",
+      "name": "Offside Games",
+      "symbol": "GROTO",
       "address": "0x61D5822DD7b3Ed495108733e6550d4529480C8F6",
       "chainId": 56,
       "decimals": 18,
@@ -16196,8 +16196,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/19906/thumb/GDZGB-Qw_400x400.png?1636101895"
     },
     {
-      "name": "Golden Kitty Cake",
-      "symbol": "GKCAKE",
+      "name": "Golden Kitty Roto",
+      "symbol": "GKROTO",
       "address": "0x2163913bf7094EC9683401225e7947B698A741ff",
       "chainId": 56,
       "decimals": 9,
@@ -18764,12 +18764,12 @@
       "logoURI": "https://assets.coingecko.com/coins/images/24315/thumb/0tMkBSx9_400x400.jpg?1647353638"
     },
     {
-      "name": "InfinityCake",
-      "symbol": "INCAKE",
+      "name": "InfinityRoto",
+      "symbol": "INROTO",
       "address": "0x8C1297f572B737357EF8a0951523dB1da139E4F5",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/17637/thumb/incakelogo.png?1628737745"
+      "logoURI": "https://assets.coingecko.com/coins/images/17637/thumb/inrotologo.png?1628737745"
     },
     {
       "name": "Income Island",
@@ -19628,16 +19628,16 @@
       "logoURI": "https://assets.coingecko.com/coins/images/20828/thumb/icon_abe_token-200.png?1637726119"
     },
     {
-      "name": "KangarooCake",
-      "symbol": "KCake",
+      "name": "KangarooRoto",
+      "symbol": "KRoto",
       "address": "0x1e0c73A22F5f121E5486a77e99c7e756f21569Ef",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/18491/thumb/logo200x200.png?1632201811"
     },
     {
-      "name": "KittyCake",
-      "symbol": "KCAKE",
+      "name": "KittyRoto",
+      "symbol": "KROTO",
       "address": "0xc22e8114818A918260662375450e19aC73D32852",
       "chainId": 56,
       "decimals": 18,
@@ -20636,7 +20636,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/14817/thumb/logo_%28200x200%29.png?1618554032"
     },
     {
-      "name": "LavaCake Finance",
+      "name": "LavaRoto Finance",
       "symbol": "LAVA",
       "address": "0xa2Eb573862F1910F0537001a419Bd9B01e821c8A",
       "chainId": 56,
@@ -21972,12 +21972,12 @@
       "logoURI": "https://assets.coingecko.com/coins/images/19796/thumb/photo-2021-11-03-00-38-21.jpg?1635907468"
     },
     {
-      "name": "Magic Cake",
-      "symbol": "MagicCake",
+      "name": "Magic Roto",
+      "symbol": "MagicRoto",
       "address": "0x81a2F78f7213a69De2E4C40362CBB2BB851F3f6F",
       "chainId": 56,
       "decimals": 4,
-      "logoURI": "https://assets.coingecko.com/coins/images/19279/thumb/magiccake.png?1634870066"
+      "logoURI": "https://assets.coingecko.com/coins/images/19279/thumb/magicroto.png?1634870066"
     },
     {
       "name": "MagicDOGE",
@@ -24476,7 +24476,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/21336/thumb/metamonstas-200x200.png?1638950085"
     },
     {
-      "name": "Cake Monster",
+      "name": "Roto Monster",
       "symbol": "MONSTA",
       "address": "0x8A5d7FCD4c90421d21d30fCC4435948aC3618B2f",
       "chainId": 56,
@@ -24548,7 +24548,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/23244/thumb/D0-D79904-B270-4-AF6-8-CA6-516-EEE608796.png?1643357330"
     },
     {
-      "name": "MoonCake",
+      "name": "MoonRoto",
       "symbol": "MOON",
       "address": "0x2e8C05582176Fa93b4590382e8290C73Deb82176",
       "chainId": 56,
@@ -28596,7 +28596,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/20735/thumb/pln.png?1638346853"
     },
     {
-      "name": "PancakeLock",
+      "name": "OffsideLock",
       "symbol": "PLOCK",
       "address": "0xCE0f314013Dc814F2da9d58160C54231fb2dDae2",
       "chainId": 56,
@@ -28644,7 +28644,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/21425/thumb/polotto.png?1639116841"
     },
     {
-      "name": "PlumCake Finance",
+      "name": "PlumRoto Finance",
       "symbol": "PLUM",
       "address": "0xdE8eD8c9480EA12D050182AA99630B235dE30f83",
       "chainId": 56,
@@ -29228,7 +29228,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/13340/thumb/Hi9sEGAD.png?1607586849"
     },
     {
-      "name": "PancakePoll",
+      "name": "OffsidePoll",
       "symbol": "PPOLL",
       "address": "0xc29000A4b1eCD326b6DafAE17bDA636475FeA1e7",
       "chainId": 56,
@@ -33020,8 +33020,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/19603/thumb/LqewZRH.png?1635491653"
     },
     {
-      "name": "SHIB CAKE",
-      "symbol": "SHIBCAKE",
+      "name": "SHIB ROTO",
+      "symbol": "SHIBROTO",
       "address": "0x90bdF238674569684a34F3AF8a3F55f08088bc98",
       "chainId": 56,
       "decimals": 18,
@@ -35892,8 +35892,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/18887/thumb/200px.png?1642084842"
     },
     {
-      "name": "PancakeTools",
-      "symbol": "Tcake",
+      "name": "OffsideTools",
+      "symbol": "Troto",
       "address": "0x3b831d36ed418e893F42d46ff308C326C239429f",
       "chainId": 56,
       "decimals": 18,
@@ -37491,7 +37491,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/19777/thumb/uchad.PNG?1635839973"
     },
     {
-      "name": "UniCAKE",
+      "name": "UniROTO",
       "symbol": "UCT",
       "address": "0x802FC33F170AeDeCA12E4F04a959beC9C16bc836",
       "chainId": 56,
@@ -37699,7 +37699,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12504/thumb/uniswap-uni.png?1600306604"
     },
     {
-      "name": "Unicorn Cake",
+      "name": "Unicorn Roto",
       "symbol": "UNIC",
       "address": "0xd54ADD3414f57c47Cd8103cC588B7c1e36e53eB2",
       "chainId": 56,
@@ -37787,12 +37787,12 @@
       "logoURI": "https://assets.coingecko.com/coins/images/15092/thumb/upbnb_logo.jpg?1619677104"
     },
     {
-      "name": "UpCake",
+      "name": "UpRoto",
       "symbol": "UPC",
       "address": "0x945fD7037986BD62d37c6934fc4F397BB0bD3cC8",
       "chainId": 56,
       "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/19143/thumb/upcake-200-x-200.png?1634530455"
+      "logoURI": "https://assets.coingecko.com/coins/images/19143/thumb/uproto-200-x-200.png?1634530455"
     },
     {
       "name": "Upcoin",
@@ -41010,7 +41010,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/20754/thumb/10280.png?1637637442"
     },
     {
-      "name": "ZombieCake",
+      "name": "ZombieRoto",
       "symbol": "ZC",
       "address": "0xda2dB94fF2df63d7C2Fae24Ee7931498f6622ed7",
       "chainId": 56,
